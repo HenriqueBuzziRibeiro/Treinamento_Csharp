@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\bin\Debug\net8.0\04_ParametrosEntreClassesEReferencias.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\bin\Debug\net8.0\04_ParametrosEntreClassesEReferencias.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\bin\Debug\net8.0\04_ParametrosEntreClassesEReferencias.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\bin\Debug\net8.0\04_ParametrosEntreClassesEReferencias.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\bin\Debug\net8.0\04_ParametrosEntreClassesEReferencias.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\refint\04_ParametrosEntreClassesEReferencias.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\04_ParametrosEntreClassesEReferencias.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\04_ParametrosEntreClassesEReferencias\obj\Debug\net8.0\ref\04_ParametrosEntreClassesEReferencias.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D755FD19-FA17-46D5-9E85-08A96C005539}|TiposDeDados2\\02_TiposDeDados2.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\c#fundamentos1\\tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D755FD19-FA17-46D5-9E85-08A96C005539}|TiposDeDados2\\02_TiposDeDados2.csproj|solutionrelative:tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E15B0C-4E49-44B1-8BA2-399D930B13CB}|TiposDeDados1\\01_TiposDeDados1.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\c#fundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E15B0C-4E49-44B1-8BA2-399D930B13CB}|TiposDeDados1\\01_TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E15B0C-4E49-44B1-8BA2-399D930B13CB}|TiposDeDados1\\01_TiposDeDados1.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\c#fundamentos1\\tiposdedados1\\01_tiposdedados1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61E15B0C-4E49-44B1-8BA2-399D930B13CB}|TiposDeDados1\\01_TiposDeDados1.csproj|solutionrelative:tiposdedados1\\01_tiposdedados1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados2\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados2\\Program.cs",
+              "RelativeToolTip": "TiposDeDados2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:37:58.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeToolTip": "TiposDeDados1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:37:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01_TiposDeDados1",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados1\\01_TiposDeDados1.csproj",
+              "RelativeDocumentMoniker": "TiposDeDados1\\01_TiposDeDados1.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\C#Fundamentos1\\TiposDeDados1\\01_TiposDeDados1.csproj",
+              "RelativeToolTip": "TiposDeDados1\\01_TiposDeDados1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T13:37:52.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

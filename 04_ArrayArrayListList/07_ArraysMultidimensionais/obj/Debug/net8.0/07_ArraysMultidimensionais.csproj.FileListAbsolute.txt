@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\bin\Debug\net8.0\07_ArraysMultidimensionais.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\bin\Debug\net8.0\07_ArraysMultidimensionais.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\bin\Debug\net8.0\07_ArraysMultidimensionais.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\bin\Debug\net8.0\07_ArraysMultidimensionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\bin\Debug\net8.0\07_ArraysMultidimensionais.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\refint\07_ArraysMultidimensionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\ref\07_ArraysMultidimensionais.dll

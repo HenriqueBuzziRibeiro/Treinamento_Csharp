@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\bin\Debug\net8.0\05_TipoDateTime.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\bin\Debug\net8.0\05_TipoDateTime.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\bin\Debug\net8.0\05_TipoDateTime.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\bin\Debug\net8.0\05_TipoDateTime.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\bin\Debug\net8.0\05_TipoDateTime.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\refint\05_TipoDateTime.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\05_TipoDateTime.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\05_TipoDateTime\obj\Debug\net8.0\ref\05_TipoDateTime.dll

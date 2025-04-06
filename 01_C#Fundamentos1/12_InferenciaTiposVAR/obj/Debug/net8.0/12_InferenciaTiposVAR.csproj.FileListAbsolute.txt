@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\bin\Debug\net8.0\12_InferenciaTiposVAR.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\bin\Debug\net8.0\12_InferenciaTiposVAR.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\bin\Debug\net8.0\12_InferenciaTiposVAR.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\bin\Debug\net8.0\12_InferenciaTiposVAR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\bin\Debug\net8.0\12_InferenciaTiposVAR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\refint\12_InferenciaTiposVAR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\12_InferenciaTiposVAR.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\12_InferenciaTiposVAR\obj\Debug\net8.0\ref\12_InferenciaTiposVAR.dll

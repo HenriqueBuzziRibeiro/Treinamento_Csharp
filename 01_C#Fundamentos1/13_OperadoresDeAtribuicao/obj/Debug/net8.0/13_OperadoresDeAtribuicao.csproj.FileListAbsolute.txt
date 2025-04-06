@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\bin\Debug\net8.0\13_OperadoresDeAtribuicao.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\bin\Debug\net8.0\13_OperadoresDeAtribuicao.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\bin\Debug\net8.0\13_OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\bin\Debug\net8.0\13_OperadoresDeAtribuicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\bin\Debug\net8.0\13_OperadoresDeAtribuicao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\refint\13_OperadoresDeAtribuicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\13_OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\13_OperadoresDeAtribuicao\obj\Debug\net8.0\ref\13_OperadoresDeAtribuicao.dll

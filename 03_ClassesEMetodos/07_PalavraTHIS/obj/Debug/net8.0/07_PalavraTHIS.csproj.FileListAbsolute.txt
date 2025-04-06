@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\bin\Debug\net8.0\07_PalavraTHIS.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\bin\Debug\net8.0\07_PalavraTHIS.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\bin\Debug\net8.0\07_PalavraTHIS.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\bin\Debug\net8.0\07_PalavraTHIS.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\bin\Debug\net8.0\07_PalavraTHIS.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\refint\07_PalavraTHIS.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\07_PalavraTHIS.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\07_PalavraTHIS\obj\Debug\net8.0\ref\07_PalavraTHIS.dll

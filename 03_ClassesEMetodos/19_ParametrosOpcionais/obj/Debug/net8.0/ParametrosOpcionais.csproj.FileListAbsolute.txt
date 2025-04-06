@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\refint\ParametrosOpcionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\ParametrosOpcionais\obj\Debug\net8.0\ref\ParametrosOpcionais.dll

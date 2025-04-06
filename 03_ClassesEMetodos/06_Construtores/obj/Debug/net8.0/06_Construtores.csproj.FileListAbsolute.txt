@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\bin\Debug\net8.0\06_Construtores.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\bin\Debug\net8.0\06_Construtores.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\bin\Debug\net8.0\06_Construtores.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\bin\Debug\net8.0\06_Construtores.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\bin\Debug\net8.0\06_Construtores.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\refint\06_Construtores.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\06_Construtores.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\06_Construtores\obj\Debug\net8.0\ref\06_Construtores.dll

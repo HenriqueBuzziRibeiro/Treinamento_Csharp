@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\bin\Debug\net8.0\06_NullableTypes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\bin\Debug\net8.0\06_NullableTypes.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\bin\Debug\net8.0\06_NullableTypes.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\bin\Debug\net8.0\06_NullableTypes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\bin\Debug\net8.0\06_NullableTypes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\refint\06_NullableTypes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\06_NullableTypes.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\06_NullableTypes\obj\Debug\net8.0\ref\06_NullableTypes.dll

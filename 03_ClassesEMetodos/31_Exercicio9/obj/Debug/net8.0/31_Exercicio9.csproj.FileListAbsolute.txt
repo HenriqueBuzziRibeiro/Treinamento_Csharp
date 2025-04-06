@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\bin\Debug\net8.0\31_Exercicio9.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\bin\Debug\net8.0\31_Exercicio9.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\bin\Debug\net8.0\31_Exercicio9.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\bin\Debug\net8.0\31_Exercicio9.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\bin\Debug\net8.0\31_Exercicio9.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\refint\31_Exercicio9.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\31_Exercicio9.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\31_Exercicio9\obj\Debug\net8.0\ref\31_Exercicio9.dll

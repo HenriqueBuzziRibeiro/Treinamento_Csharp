@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\bin\Debug\net8.0\08_SaidaDeDados.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\bin\Debug\net8.0\08_SaidaDeDados.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\bin\Debug\net8.0\08_SaidaDeDados.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\bin\Debug\net8.0\08_SaidaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\bin\Debug\net8.0\08_SaidaDeDados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\refint\08_SaidaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\08_SaidaDeDados.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\08_SaidaDeDados\obj\Debug\net8.0\ref\08_SaidaDeDados.dll

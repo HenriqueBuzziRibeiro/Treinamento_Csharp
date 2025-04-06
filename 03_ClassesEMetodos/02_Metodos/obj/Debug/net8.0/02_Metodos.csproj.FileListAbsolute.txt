@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\bin\Debug\net8.0\02_Metodos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\bin\Debug\net8.0\02_Metodos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\bin\Debug\net8.0\02_Metodos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\bin\Debug\net8.0\02_Metodos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\bin\Debug\net8.0\02_Metodos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\refint\02_Metodos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\02_Metodos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\02_Metodos\obj\Debug\net8.0\ref\02_Metodos.dll

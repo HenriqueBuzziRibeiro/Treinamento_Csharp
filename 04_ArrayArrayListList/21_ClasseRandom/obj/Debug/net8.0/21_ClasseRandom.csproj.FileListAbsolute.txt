@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\bin\Debug\net8.0\21_ClasseRandom.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\bin\Debug\net8.0\21_ClasseRandom.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\bin\Debug\net8.0\21_ClasseRandom.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\bin\Debug\net8.0\21_ClasseRandom.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\bin\Debug\net8.0\21_ClasseRandom.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\refint\21_ClasseRandom.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\ref\21_ClasseRandom.dll

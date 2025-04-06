@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\bin\Debug\net8.0\09_ConversaoDeTipos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\bin\Debug\net8.0\09_ConversaoDeTipos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\bin\Debug\net8.0\09_ConversaoDeTipos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\bin\Debug\net8.0\09_ConversaoDeTipos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\bin\Debug\net8.0\09_ConversaoDeTipos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\refint\09_ConversaoDeTipos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\09_ConversaoDeTipos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\09_ConversaoDeTipos\obj\Debug\net8.0\ref\09_ConversaoDeTipos.dll

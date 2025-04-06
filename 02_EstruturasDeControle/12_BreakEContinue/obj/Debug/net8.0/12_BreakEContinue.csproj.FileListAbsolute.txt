@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\bin\Debug\net8.0\12_BreakEContinue.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\bin\Debug\net8.0\12_BreakEContinue.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\bin\Debug\net8.0\12_BreakEContinue.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\bin\Debug\net8.0\12_BreakEContinue.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\bin\Debug\net8.0\12_BreakEContinue.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\refint\12_BreakEContinue.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\12_BreakEContinue.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\12_BreakEContinue\obj\Debug\net8.0\ref\12_BreakEContinue.dll

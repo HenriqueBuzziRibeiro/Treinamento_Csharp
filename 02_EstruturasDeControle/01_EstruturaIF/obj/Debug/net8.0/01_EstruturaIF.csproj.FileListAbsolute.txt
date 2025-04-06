@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\bin\Debug\net8.0\01_EstruturaIF.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\bin\Debug\net8.0\01_EstruturaIF.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\bin\Debug\net8.0\01_EstruturaIF.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\bin\Debug\net8.0\01_EstruturaIF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\bin\Debug\net8.0\01_EstruturaIF.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\refint\01_EstruturaIF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\01_EstruturaIF.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\01_EstruturaIF\obj\Debug\net8.0\ref\01_EstruturaIF.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\bin\Debug\net8.0\14_Constantes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\bin\Debug\net8.0\14_Constantes.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\bin\Debug\net8.0\14_Constantes.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\bin\Debug\net8.0\14_Constantes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\bin\Debug\net8.0\14_Constantes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\refint\14_Constantes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\14_Constantes.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\14_Constantes\obj\Debug\net8.0\ref\14_Constantes.dll

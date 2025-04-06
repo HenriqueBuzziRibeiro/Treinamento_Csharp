@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\bin\Debug\net8.0\20_Indexers.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\bin\Debug\net8.0\20_Indexers.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\bin\Debug\net8.0\20_Indexers.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\bin\Debug\net8.0\20_Indexers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\bin\Debug\net8.0\20_Indexers.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\refint\20_Indexers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\ref\20_Indexers.dll

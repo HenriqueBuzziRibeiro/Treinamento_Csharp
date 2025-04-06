@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\bin\Debug\net8.0\37_PartialClass.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\bin\Debug\net8.0\37_PartialClass.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\bin\Debug\net8.0\37_PartialClass.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\bin\Debug\net8.0\37_PartialClass.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\bin\Debug\net8.0\37_PartialClass.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\refint\37_PartialClass.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\37_PartialClass.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\37_PartialClass\obj\Debug\net8.0\ref\37_PartialClass.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\bin\Debug\net8.0\03_MetodosComParametros.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\bin\Debug\net8.0\03_MetodosComParametros.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\bin\Debug\net8.0\03_MetodosComParametros.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\bin\Debug\net8.0\03_MetodosComParametros.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\bin\Debug\net8.0\03_MetodosComParametros.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\refint\03_MetodosComParametros.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\03_MetodosComParametros.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\03_MetodosComParametros\obj\Debug\net8.0\ref\03_MetodosComParametros.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\bin\Debug\net8.0\15_IncrementoEDecremento.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\bin\Debug\net8.0\15_IncrementoEDecremento.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\bin\Debug\net8.0\15_IncrementoEDecremento.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\bin\Debug\net8.0\15_IncrementoEDecremento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\bin\Debug\net8.0\15_IncrementoEDecremento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\refint\15_IncrementoEDecremento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\15_IncrementoEDecremento.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\15_IncrementoEDecremento\obj\Debug\net8.0\ref\15_IncrementoEDecremento.dll

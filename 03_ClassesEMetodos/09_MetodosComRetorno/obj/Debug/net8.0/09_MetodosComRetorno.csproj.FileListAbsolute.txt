@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\bin\Debug\net8.0\09_MetodosComRetorno.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\bin\Debug\net8.0\09_MetodosComRetorno.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\bin\Debug\net8.0\09_MetodosComRetorno.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\bin\Debug\net8.0\09_MetodosComRetorno.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\bin\Debug\net8.0\09_MetodosComRetorno.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\refint\09_MetodosComRetorno.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\09_MetodosComRetorno.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\09_MetodosComRetorno\obj\Debug\net8.0\ref\09_MetodosComRetorno.dll

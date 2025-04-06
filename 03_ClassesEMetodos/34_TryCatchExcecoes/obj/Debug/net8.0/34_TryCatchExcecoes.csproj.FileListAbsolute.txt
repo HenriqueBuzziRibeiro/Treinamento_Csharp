@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\bin\Debug\net8.0\34_TryCatchExcecoes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\bin\Debug\net8.0\34_TryCatchExcecoes.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\bin\Debug\net8.0\34_TryCatchExcecoes.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\bin\Debug\net8.0\34_TryCatchExcecoes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\bin\Debug\net8.0\34_TryCatchExcecoes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\refint\34_TryCatchExcecoes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\34_TryCatchExcecoes.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\34_TryCatchExcecoes\obj\Debug\net8.0\ref\34_TryCatchExcecoes.dll

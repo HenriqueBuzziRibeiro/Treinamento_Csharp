@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\bin\Debug\net8.0\04_EstruturaSWITCH.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\bin\Debug\net8.0\04_EstruturaSWITCH.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\bin\Debug\net8.0\04_EstruturaSWITCH.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\bin\Debug\net8.0\04_EstruturaSWITCH.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\bin\Debug\net8.0\04_EstruturaSWITCH.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\refint\04_EstruturaSWITCH.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\04_EstruturaSWITCH.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\04_EstruturaSWITCH\obj\Debug\net8.0\ref\04_EstruturaSWITCH.dll

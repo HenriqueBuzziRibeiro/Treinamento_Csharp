@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\bin\Debug\net8.0\16_ArgumentoPorReferenciaOUT.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\bin\Debug\net8.0\16_ArgumentoPorReferenciaOUT.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\bin\Debug\net8.0\16_ArgumentoPorReferenciaOUT.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\bin\Debug\net8.0\16_ArgumentoPorReferenciaOUT.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\bin\Debug\net8.0\16_ArgumentoPorReferenciaOUT.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\refint\16_ArgumentoPorReferenciaOUT.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\16_ArgumentoPorReferenciaOUT.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_ArgumentoPorReferenciaOUT\obj\Debug\net8.0\ref\16_ArgumentoPorReferenciaOUT.dll

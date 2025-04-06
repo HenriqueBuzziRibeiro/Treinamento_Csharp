@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\bin\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\bin\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\bin\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\bin\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\bin\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\refint\08_EstruturaDeRepeticaoWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\08_EstruturaDeRepeticaoWHILE.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\08_EstruturaDeRepeticaoWHILE\obj\Debug\net8.0\ref\08_EstruturaDeRepeticaoWHILE.dll

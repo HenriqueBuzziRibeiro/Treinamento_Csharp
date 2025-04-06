@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\bin\Debug\net8.0\18_ArgumentosNomeados.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\bin\Debug\net8.0\18_ArgumentosNomeados.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\bin\Debug\net8.0\18_ArgumentosNomeados.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\bin\Debug\net8.0\18_ArgumentosNomeados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\bin\Debug\net8.0\18_ArgumentosNomeados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\refint\18_ArgumentosNomeados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\18_ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\18_ArgumentosEMetodos\obj\Debug\net8.0\ref\18_ArgumentosNomeados.dll

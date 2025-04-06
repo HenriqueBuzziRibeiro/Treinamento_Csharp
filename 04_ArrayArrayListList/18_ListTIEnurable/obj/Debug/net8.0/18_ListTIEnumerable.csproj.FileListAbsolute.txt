@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\bin\Debug\net8.0\18_ListTIEnumerable.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\bin\Debug\net8.0\18_ListTIEnumerable.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\bin\Debug\net8.0\18_ListTIEnumerable.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\bin\Debug\net8.0\18_ListTIEnumerable.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\bin\Debug\net8.0\18_ListTIEnumerable.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\refint\18_ListTIEnumerable.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\ref\18_ListTIEnumerable.dll

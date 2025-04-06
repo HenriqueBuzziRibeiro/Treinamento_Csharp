@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\bin\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\bin\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\bin\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\bin\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\bin\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\refint\13_ArgumentosPorValorEPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\13_ArgumentosPorValorEPorReferencia.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\13_ArgumentosPorValorEPorReferencia\obj\Debug\net8.0\ref\13_ArgumentosPorValorEPorReferencia.dll

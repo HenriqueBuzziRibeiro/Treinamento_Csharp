@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\bin\Debug\net8.0\03_EstruturaIF_ELSE_IF.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\bin\Debug\net8.0\03_EstruturaIF_ELSE_IF.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\bin\Debug\net8.0\03_EstruturaIF_ELSE_IF.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\bin\Debug\net8.0\03_EstruturaIF_ELSE_IF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\bin\Debug\net8.0\03_EstruturaIF_ELSE_IF.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\refint\03_EstruturaIF_ELSE_IF.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\03_EstruturaIF_ELSE_IF.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\03_EstruturaIF_ELSE_IF\obj\Debug\net8.0\ref\03_EstruturaIF_ELSE_IF.dll

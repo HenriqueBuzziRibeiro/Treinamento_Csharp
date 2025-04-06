@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\bin\Debug\net8.0\11_AssinaturaDeUmMetodo.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\bin\Debug\net8.0\11_AssinaturaDeUmMetodo.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\bin\Debug\net8.0\11_AssinaturaDeUmMetodo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\bin\Debug\net8.0\11_AssinaturaDeUmMetodo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\bin\Debug\net8.0\11_AssinaturaDeUmMetodo.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\refint\11_AssinaturaDeUmMetodo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\11_AssinaturaDeUmMetodo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\11_AssinaturaDeUmMetodo\obj\Debug\net8.0\ref\11_AssinaturaDeUmMetodo.dll

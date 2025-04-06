@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\bin\Debug\net8.0\14_ArgumentosPorReferencia.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\bin\Debug\net8.0\14_ArgumentosPorReferencia.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\bin\Debug\net8.0\14_ArgumentosPorReferencia.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\bin\Debug\net8.0\14_ArgumentosPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\bin\Debug\net8.0\14_ArgumentosPorReferencia.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\refint\14_ArgumentosPorReferencia.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\14_ArgumentosPorReferencia.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\14_ArgumentosPorReferencia\obj\Debug\net8.0\ref\14_ArgumentosPorReferencia.dll

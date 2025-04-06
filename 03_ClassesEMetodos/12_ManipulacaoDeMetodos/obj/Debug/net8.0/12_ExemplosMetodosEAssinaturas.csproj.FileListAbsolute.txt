@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\bin\Debug\net8.0\12_ExemplosMetodosEAssinaturas.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\bin\Debug\net8.0\12_ExemplosMetodosEAssinaturas.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\bin\Debug\net8.0\12_ExemplosMetodosEAssinaturas.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\bin\Debug\net8.0\12_ExemplosMetodosEAssinaturas.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\bin\Debug\net8.0\12_ExemplosMetodosEAssinaturas.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\refint\12_ExemplosMetodosEAssinaturas.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\12_ExemplosMetodosEAssinaturas.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\12_ManipulacaoDeMetodos\obj\Debug\net8.0\ref\12_ExemplosMetodosEAssinaturas.dll

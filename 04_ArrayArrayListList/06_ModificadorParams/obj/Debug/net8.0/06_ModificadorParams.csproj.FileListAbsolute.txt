@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\bin\Debug\net8.0\06_ModificadorParams.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\bin\Debug\net8.0\06_ModificadorParams.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\bin\Debug\net8.0\06_ModificadorParams.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\bin\Debug\net8.0\06_ModificadorParams.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\bin\Debug\net8.0\06_ModificadorParams.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\refint\06_ModificadorParams.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\ref\06_ModificadorParams.dll

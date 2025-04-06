@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\bin\Debug\net8.0\TiposDeDados2.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\bin\Debug\net8.0\TiposDeDados2.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\bin\Debug\net8.0\TiposDeDados2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\bin\Debug\net8.0\TiposDeDados2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\bin\Debug\net8.0\TiposDeDados2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\refint\TiposDeDados2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\TiposDeDados2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\TiposDeDados2\obj\Debug\net8.0\ref\TiposDeDados2.dll

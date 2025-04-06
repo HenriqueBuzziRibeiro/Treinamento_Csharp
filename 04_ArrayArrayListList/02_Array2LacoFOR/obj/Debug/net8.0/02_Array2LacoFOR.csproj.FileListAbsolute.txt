@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\bin\Debug\net8.0\02_Array2LacoFOR.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\bin\Debug\net8.0\02_Array2LacoFOR.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\bin\Debug\net8.0\02_Array2LacoFOR.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\bin\Debug\net8.0\02_Array2LacoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\bin\Debug\net8.0\02_Array2LacoFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\refint\02_Array2LacoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\02_Array2LacoFOR.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\ConsoleApp1\02_Array2LacoFOR\obj\Debug\net8.0\ref\02_Array2LacoFOR.dll

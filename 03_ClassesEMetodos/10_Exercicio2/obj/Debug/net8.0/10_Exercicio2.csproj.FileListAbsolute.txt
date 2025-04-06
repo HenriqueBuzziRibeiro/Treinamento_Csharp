@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\bin\Debug\net8.0\10_Exercicio2.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\bin\Debug\net8.0\10_Exercicio2.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\bin\Debug\net8.0\10_Exercicio2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\bin\Debug\net8.0\10_Exercicio2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\bin\Debug\net8.0\10_Exercicio2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\refint\10_Exercicio2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\10_Exercicio2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\10_Exercicio2\obj\Debug\net8.0\ref\10_Exercicio2.dll

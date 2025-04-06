@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\bin\Debug\net8.0\21_MetodosEstaticos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\bin\Debug\net8.0\21_MetodosEstaticos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\bin\Debug\net8.0\21_MetodosEstaticos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\bin\Debug\net8.0\21_MetodosEstaticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\bin\Debug\net8.0\21_MetodosEstaticos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\refint\21_MetodosEstaticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\21_MetodosEstaticos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\21_MetodosEstaticos\obj\Debug\net8.0\ref\21_MetodosEstaticos.dll

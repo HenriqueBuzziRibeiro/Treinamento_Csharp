@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\bin\Debug\net8.0\15_Exercicio3.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\bin\Debug\net8.0\15_Exercicio3.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\bin\Debug\net8.0\15_Exercicio3.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\bin\Debug\net8.0\15_Exercicio3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\bin\Debug\net8.0\15_Exercicio3.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\refint\15_Exercicio3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\15_Exercicio3.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\15_Exercicio3\obj\Debug\net8.0\ref\15_Exercicio3.dll

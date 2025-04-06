@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\bin\Debug\net8.0\06_EstruturaDeRepeticao.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\bin\Debug\net8.0\06_EstruturaDeRepeticao.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\bin\Debug\net8.0\06_EstruturaDeRepeticao.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\bin\Debug\net8.0\06_EstruturaDeRepeticao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\bin\Debug\net8.0\06_EstruturaDeRepeticao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\refint\06_EstruturaDeRepeticao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\06_EstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\06_EstruturaDeRepeticao\obj\Debug\net8.0\ref\06_EstruturaDeRepeticao.dll

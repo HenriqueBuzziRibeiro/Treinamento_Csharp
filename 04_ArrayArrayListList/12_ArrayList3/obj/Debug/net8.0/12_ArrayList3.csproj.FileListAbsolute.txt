@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\bin\Debug\net8.0\12_ArrayList3.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\bin\Debug\net8.0\12_ArrayList3.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\bin\Debug\net8.0\12_ArrayList3.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\bin\Debug\net8.0\12_ArrayList3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\bin\Debug\net8.0\12_ArrayList3.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\refint\12_ArrayList3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\ref\12_ArrayList3.dll

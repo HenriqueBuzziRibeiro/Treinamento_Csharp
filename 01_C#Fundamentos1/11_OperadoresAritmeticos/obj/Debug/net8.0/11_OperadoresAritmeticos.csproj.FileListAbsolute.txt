@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\bin\Debug\net8.0\11_OperadoresAritmeticos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\bin\Debug\net8.0\11_OperadoresAritmeticos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\bin\Debug\net8.0\11_OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\bin\Debug\net8.0\11_OperadoresAritmeticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\bin\Debug\net8.0\11_OperadoresAritmeticos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\refint\11_OperadoresAritmeticos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\11_OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\11_OperadoresAritmeticos\obj\Debug\net8.0\ref\11_OperadoresAritmeticos.dll

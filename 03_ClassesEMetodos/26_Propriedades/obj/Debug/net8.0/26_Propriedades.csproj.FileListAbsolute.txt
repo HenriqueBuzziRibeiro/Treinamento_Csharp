@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\bin\Debug\net8.0\26_Propriedades.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\bin\Debug\net8.0\26_Propriedades.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\bin\Debug\net8.0\26_Propriedades.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\bin\Debug\net8.0\26_Propriedades.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\bin\Debug\net8.0\26_Propriedades.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\refint\26_Propriedades.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\26_Propriedades.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\26_Propriedades\obj\Debug\net8.0\ref\26_Propriedades.dll

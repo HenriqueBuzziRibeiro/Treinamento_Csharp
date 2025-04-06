@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\bin\Debug\net8.0\10_EstruturaDeRepeticaoFOR.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\bin\Debug\net8.0\10_EstruturaDeRepeticaoFOR.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\bin\Debug\net8.0\10_EstruturaDeRepeticaoFOR.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\bin\Debug\net8.0\10_EstruturaDeRepeticaoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\bin\Debug\net8.0\10_EstruturaDeRepeticaoFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\refint\10_EstruturaDeRepeticaoFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\10_EstruturaDeRepeticaoFOR.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\10_EstruturaDeRepeticaoFOR\obj\Debug\net8.0\ref\10_EstruturaDeRepeticaoFOR.dll

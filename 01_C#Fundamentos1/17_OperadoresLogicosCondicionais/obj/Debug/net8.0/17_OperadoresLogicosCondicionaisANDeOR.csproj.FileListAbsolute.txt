@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\bin\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\bin\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\bin\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\bin\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\bin\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\refint\17_OperadoresLogicosCondicionaisANDeOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\17_OperadoresLogicosCondicionaisANDeOR.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\17_OperadoresLogicosCondicionais\obj\Debug\net8.0\ref\17_OperadoresLogicosCondicionaisANDeOR.dll

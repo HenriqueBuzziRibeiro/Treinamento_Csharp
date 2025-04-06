@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\bin\Debug\net8.0\20_OperadorTernario.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\bin\Debug\net8.0\20_OperadorTernario.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\bin\Debug\net8.0\20_OperadorTernario.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\bin\Debug\net8.0\20_OperadorTernario.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\bin\Debug\net8.0\20_OperadorTernario.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\refint\20_OperadorTernario.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\20_OperadorTernario.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\20_OperadorTernario\obj\Debug\net8.0\ref\20_OperadorTernario.dll

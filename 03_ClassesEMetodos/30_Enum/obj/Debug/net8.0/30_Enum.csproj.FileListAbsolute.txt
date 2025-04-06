@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\bin\Debug\net8.0\30_Enum.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\bin\Debug\net8.0\30_Enum.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\bin\Debug\net8.0\30_Enum.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\bin\Debug\net8.0\30_Enum.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\bin\Debug\net8.0\30_Enum.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\refint\30_Enum.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\30_Enum.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\30_Enum\obj\Debug\net8.0\ref\30_Enum.dll

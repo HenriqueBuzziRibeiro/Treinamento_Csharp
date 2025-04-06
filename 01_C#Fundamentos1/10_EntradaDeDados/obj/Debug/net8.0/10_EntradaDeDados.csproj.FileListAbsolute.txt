@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\bin\Debug\net8.0\10_EntradaDeDados.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\bin\Debug\net8.0\10_EntradaDeDados.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\bin\Debug\net8.0\10_EntradaDeDados.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\bin\Debug\net8.0\10_EntradaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\bin\Debug\net8.0\10_EntradaDeDados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\refint\10_EntradaDeDados.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\10_EntradaDeDados.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\C#Fundamentos1\10_EntradaDeDados\obj\Debug\net8.0\ref\10_EntradaDeDados.dll

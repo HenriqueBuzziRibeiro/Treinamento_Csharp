@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\bin\Debug\net8.0\23_CamposEstaticos2.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\bin\Debug\net8.0\23_CamposEstaticos2.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\bin\Debug\net8.0\23_CamposEstaticos2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\bin\Debug\net8.0\23_CamposEstaticos2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\bin\Debug\net8.0\23_CamposEstaticos2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\refint\23_CamposEstaticos2.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\23_CamposEstaticos2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\23_CamposEstaticos2\obj\Debug\net8.0\ref\23_CamposEstaticos2.dll

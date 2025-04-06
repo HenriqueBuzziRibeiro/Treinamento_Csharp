@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\bin\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\bin\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\bin\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\bin\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\bin\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\refint\09_EstruturaDeRepeticaoDOWHILE.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\09_EstruturaDeRepeticaoDOWHILE.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\EstruturasDeControle\09_EstruturaDeRepeticaoDOWHILE\obj\Debug\net8.0\ref\09_EstruturaDeRepeticaoDOWHILE.dll

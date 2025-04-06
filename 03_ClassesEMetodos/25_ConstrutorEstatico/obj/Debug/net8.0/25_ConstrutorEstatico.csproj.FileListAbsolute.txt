@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\bin\Debug\net8.0\25_ConstrutorEstatico.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\bin\Debug\net8.0\25_ConstrutorEstatico.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\bin\Debug\net8.0\25_ConstrutorEstatico.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\bin\Debug\net8.0\25_ConstrutorEstatico.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\bin\Debug\net8.0\25_ConstrutorEstatico.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\refint\25_ConstrutorEstatico.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\25_ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\ClassesEMetodos\25_ConstrutorEstatico\obj\Debug\net8.0\ref\25_ConstrutorEstatico.dll

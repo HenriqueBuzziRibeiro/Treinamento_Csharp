@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\bin\Debug\net8.0\08_ArrayMultidimensionalFOR.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\bin\Debug\net8.0\08_ArrayMultidimensionalFOR.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\bin\Debug\net8.0\08_ArrayMultidimensionalFOR.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\bin\Debug\net8.0\08_ArrayMultidimensionalFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\bin\Debug\net8.0\08_ArrayMultidimensionalFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\refint\08_ArrayMultidimensionalFOR.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\08_ArrayMultidimensionalFOR.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\08_ArrayMultidimensionalFOR\obj\Debug\net8.0\ref\08_ArrayMultidimensionalFOR.dll
