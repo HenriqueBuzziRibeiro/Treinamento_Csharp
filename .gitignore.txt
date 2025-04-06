@@ -1,0 +1,17 @@
+# Pastas de compilação do Visual Studio
+bin/
+obj/
+.vs/
+
+# Arquivos de usuário e configuração local
+*.suo
+*.user
+*.cache
+
+# Dependências do NuGet
+packages/
+*.nupkg
+
+# Logs e arquivos temporários
+*.log
+*.tmp
