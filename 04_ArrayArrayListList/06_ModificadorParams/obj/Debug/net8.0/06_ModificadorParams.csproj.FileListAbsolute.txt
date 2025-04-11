@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_Modifica
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\ref\06_ModificadorParams.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\06_ModificadorParams\obj\Debug\net8.0\06_ModificadorParams.sourcelink.json

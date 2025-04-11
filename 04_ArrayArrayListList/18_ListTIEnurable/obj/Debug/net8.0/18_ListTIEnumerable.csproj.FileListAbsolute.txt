@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEn
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\ref\18_ListTIEnumerable.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\18_ListTIEnurable\obj\Debug\net8.0\18_ListTIEnumerable.sourcelink.json

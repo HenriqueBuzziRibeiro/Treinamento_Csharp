@@ -10,7 +10,7 @@ time[11] = "Gremio";  //fora do range que setamos na classe
 string valor1 = time[1];
 string valor2 = time[2];
 string valor5 = time[5];
-string valor11 = time[11]; //não va atribuir nada ao 'valor11'
+string valor11 = time[11]; //não vai atribuir nada ao 'valor11'
 
 Console.WriteLine($"{valor1}");
 

@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\bin\Debug\net8.0\05_Exercicio1.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\bin\Debug\net8.0\05_Exercicio1.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\bin\Debug\net8.0\05_Exercicio1.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\bin\Debug\net8.0\05_Exercicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\bin\Debug\net8.0\05_Exercicio1.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\refint\05_Exercicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\05_Exercicio1.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\05_Exercicio\obj\Debug\net8.0\ref\05_Exercicio1.dll

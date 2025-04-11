@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMu
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\ref\07_ArraysMultidimensionais.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\07_ArraysMultidimensionais\obj\Debug\net8.0\07_ArraysMultidimensionais.sourcelink.json

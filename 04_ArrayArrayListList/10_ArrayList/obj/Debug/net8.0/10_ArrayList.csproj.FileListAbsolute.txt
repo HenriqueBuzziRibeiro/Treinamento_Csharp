@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\bin\Debug\net8.0\10_ArrayList.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\bin\Debug\net8.0\10_ArrayList.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\bin\Debug\net8.0\10_ArrayList.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\bin\Debug\net8.0\10_ArrayList.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\bin\Debug\net8.0\10_ArrayList.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\refint\10_ArrayList.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\10_ArrayList.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\10_ArrayList\obj\Debug\net8.0\ref\10_ArrayList.dll

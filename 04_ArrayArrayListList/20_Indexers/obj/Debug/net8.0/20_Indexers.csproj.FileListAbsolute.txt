@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\ref\20_Indexers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\20_Indexers\obj\Debug\net8.0\20_Indexers.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayLis
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\ref\12_ArrayList3.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\12_ArrayList3\obj\Debug\net8.0\12_ArrayList3.sourcelink.json

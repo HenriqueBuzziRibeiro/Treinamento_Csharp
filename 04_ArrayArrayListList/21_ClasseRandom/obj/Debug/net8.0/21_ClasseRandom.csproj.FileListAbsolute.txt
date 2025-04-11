@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRa
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\ref\21_ClasseRandom.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\21_ClasseRandom\obj\Debug\net8.0\21_ClasseRandom.sourcelink.json

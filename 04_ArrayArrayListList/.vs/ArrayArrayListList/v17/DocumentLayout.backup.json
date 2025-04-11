@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34101AF3-035F-4315-B9AE-8E925C24C238}|21_ClasseRandom\\21_ClasseRandom.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\04_arrayarraylistlist\\21_classerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34101AF3-035F-4315-B9AE-8E925C24C238}|21_ClasseRandom\\21_ClasseRandom.csproj|solutionrelative:21_classerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7C5C945-35A9-4274-97DA-9E5683BABCF7}|24_Exercicio5\\24_Exercicio5.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\04_arrayarraylistlist\\24_exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C5C945-35A9-4274-97DA-9E5683BABCF7}|24_Exercicio5\\24_Exercicio5.csproj|solutionrelative:24_exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98942526-5776-42DD-9B8A-065A534F1039}|19_ExercicioList\\19_ExercicioList.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\c#\\04_arrayarraylistlist\\19_exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98942526-5776-42DD-9B8A-065A534F1039}|19_ExercicioList\\19_ExercicioList.csproj|solutionrelative:19_exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\19_ExercicioList\\Program.cs",
+              "RelativeDocumentMoniker": "19_ExercicioList\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\19_ExercicioList\\Program.cs",
+              "RelativeToolTip": "19_ExercicioList\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:01:45.399Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\21_ClasseRandom\\Program.cs",
-              "RelativeDocumentMoniker": "21_ClasseRandom\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\21_ClasseRandom\\Program.cs",
-              "RelativeToolTip": "21_ClasseRandom\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\24_Exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "24_Exercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\C#\\04_ArrayArrayListList\\24_Exercicio5\\Program.cs",
+              "RelativeToolTip": "24_Exercicio5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T20:21:57.979Z",
+              "WhenOpened": "2025-04-10T20:07:27.762Z",
               "EditorCaption": ""
             }
           ]

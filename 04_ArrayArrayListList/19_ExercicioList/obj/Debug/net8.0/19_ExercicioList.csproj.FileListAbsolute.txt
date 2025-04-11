@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\19_Exercici
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\19_ExercicioList\obj\Debug\net8.0\19_ExercicioList.pdb
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\19_ExercicioList\obj\Debug\net8.0\19_ExercicioList.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\19_ExercicioList\obj\Debug\net8.0\ref\19_ExercicioList.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\04_ArrayArrayListList\19_ExercicioList\obj\Debug\net8.0\19_ExercicioList.sourcelink.json
