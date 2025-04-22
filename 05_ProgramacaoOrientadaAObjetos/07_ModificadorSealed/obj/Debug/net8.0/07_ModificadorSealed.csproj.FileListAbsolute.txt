@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\bin\Debug\net8.0\07_ModificadorSealed.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\bin\Debug\net8.0\07_ModificadorSealed.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\bin\Debug\net8.0\07_ModificadorSealed.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\bin\Debug\net8.0\07_ModificadorSealed.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\bin\Debug\net8.0\07_ModificadorSealed.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\refint\07_ModificadorSealed.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\07_ModificadorSealed.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\07_ModificadorSealed\obj\Debug\net8.0\ref\07_ModificadorSealed.dll

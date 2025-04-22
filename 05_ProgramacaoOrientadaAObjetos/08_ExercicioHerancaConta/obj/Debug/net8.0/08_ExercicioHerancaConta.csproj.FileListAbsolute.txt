@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\bin\Debug\net8.0\08_ExercicioHerancaConta.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\bin\Debug\net8.0\08_ExercicioHerancaConta.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\bin\Debug\net8.0\08_ExercicioHerancaConta.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\bin\Debug\net8.0\08_ExercicioHerancaConta.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\bin\Debug\net8.0\08_ExercicioHerancaConta.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\refint\08_ExercicioHerancaConta.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\08_ExercicioHerancaConta.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\08_ExercicioHerancaConta\obj\Debug\net8.0\ref\08_ExercicioHerancaConta.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\bin\Debug\net8.0\02_HerancaEncapsulamentos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\bin\Debug\net8.0\02_HerancaEncapsulamentos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\bin\Debug\net8.0\02_HerancaEncapsulamentos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\bin\Debug\net8.0\02_HerancaEncapsulamentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\bin\Debug\net8.0\02_HerancaEncapsulamentos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\refint\02_HerancaEncapsulamentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\02_HerancaEncapsulamentos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\02_HerancaEncapsulamentos\obj\Debug\net8.0\ref\02_HerancaEncapsulamentos.dll

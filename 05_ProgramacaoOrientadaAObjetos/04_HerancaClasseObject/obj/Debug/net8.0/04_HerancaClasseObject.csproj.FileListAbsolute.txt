@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\bin\Debug\net8.0\04_HerancaClasseObject.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\bin\Debug\net8.0\04_HerancaClasseObject.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\bin\Debug\net8.0\04_HerancaClasseObject.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\bin\Debug\net8.0\04_HerancaClasseObject.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\bin\Debug\net8.0\04_HerancaClasseObject.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\refint\04_HerancaClasseObject.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\04_HerancaClasseObject.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\04_HerancaClasseObject\obj\Debug\net8.0\ref\04_HerancaClasseObject.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\bin\Debug\net8.0\09_UpcastingDowncasting.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\bin\Debug\net8.0\09_UpcastingDowncasting.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\bin\Debug\net8.0\09_UpcastingDowncasting.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\bin\Debug\net8.0\09_UpcastingDowncasting.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\bin\Debug\net8.0\09_UpcastingDowncasting.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\refint\09_UpcastingDowncasting.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\09_UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\09_UpcastingDowncasting\obj\Debug\net8.0\ref\09_UpcastingDowncasting.dll

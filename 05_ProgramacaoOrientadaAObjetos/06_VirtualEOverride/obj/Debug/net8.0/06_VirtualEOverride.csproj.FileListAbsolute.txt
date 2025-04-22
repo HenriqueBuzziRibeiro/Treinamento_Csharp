@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\bin\Debug\net8.0\06_VirtualEOverride.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\bin\Debug\net8.0\06_VirtualEOverride.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\bin\Debug\net8.0\06_VirtualEOverride.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\bin\Debug\net8.0\06_VirtualEOverride.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\bin\Debug\net8.0\06_VirtualEOverride.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\refint\06_VirtualEOverride.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\06_VirtualEOverride.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\06_VirtualEOverride\obj\Debug\net8.0\ref\06_VirtualEOverride.dll

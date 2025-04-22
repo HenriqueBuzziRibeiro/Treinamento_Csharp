@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\bin\Debug\net8.0\11_ClasseAbstrata.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\bin\Debug\net8.0\11_ClasseAbstrata.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\bin\Debug\net8.0\11_ClasseAbstrata.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\bin\Debug\net8.0\11_ClasseAbstrata.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\bin\Debug\net8.0\11_ClasseAbstrata.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\refint\11_ClasseAbstrata.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\11_ClasseAbstrata.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\11_ClasseAbstrata\obj\Debug\net8.0\ref\11_ClasseAbstrata.dll

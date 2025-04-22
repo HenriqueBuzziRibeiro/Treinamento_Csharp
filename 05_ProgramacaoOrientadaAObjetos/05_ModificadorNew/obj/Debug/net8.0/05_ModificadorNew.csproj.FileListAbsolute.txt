@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\bin\Debug\net8.0\05_ModificadorNew.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\bin\Debug\net8.0\05_ModificadorNew.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\bin\Debug\net8.0\05_ModificadorNew.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\bin\Debug\net8.0\05_ModificadorNew.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\bin\Debug\net8.0\05_ModificadorNew.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\refint\05_ModificadorNew.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\05_ModificadorNew.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\05_ModificadorNew\obj\Debug\net8.0\ref\05_ModificadorNew.dll
