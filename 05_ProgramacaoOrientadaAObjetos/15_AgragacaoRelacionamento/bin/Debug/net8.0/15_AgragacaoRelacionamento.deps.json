@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "15_AgragacaoRelacionamento/1.0.0": {
+        "runtime": {
+          "15_AgragacaoRelacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15_AgragacaoRelacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

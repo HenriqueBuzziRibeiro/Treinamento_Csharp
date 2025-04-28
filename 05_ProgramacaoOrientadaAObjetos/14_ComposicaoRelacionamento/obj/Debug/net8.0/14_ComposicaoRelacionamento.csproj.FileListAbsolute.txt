@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\bin\Debug\net8.0\14_ComposicaoRelacionamento.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\bin\Debug\net8.0\14_ComposicaoRelacionamento.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\bin\Debug\net8.0\14_ComposicaoRelacionamento.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\bin\Debug\net8.0\14_ComposicaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\bin\Debug\net8.0\14_ComposicaoRelacionamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\refint\14_ComposicaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\14_ComposicaoRelacionamento.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\14_ComposicaoRelacionamento\obj\Debug\net8.0\ref\14_ComposicaoRelacionamento.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\bin\Debug\net8.0\15_AgragacaoRelacionamento.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\bin\Debug\net8.0\15_AgragacaoRelacionamento.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\bin\Debug\net8.0\15_AgragacaoRelacionamento.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\bin\Debug\net8.0\15_AgragacaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\bin\Debug\net8.0\15_AgragacaoRelacionamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\refint\15_AgragacaoRelacionamento.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\15_AgragacaoRelacionamento.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\15_AgragacaoRelacionamento\obj\Debug\net8.0\ref\15_AgragacaoRelacionamento.dll

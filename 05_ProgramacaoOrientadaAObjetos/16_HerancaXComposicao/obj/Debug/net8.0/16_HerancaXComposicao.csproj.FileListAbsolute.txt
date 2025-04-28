@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\bin\Debug\net8.0\16_HerancaXComposicao.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\bin\Debug\net8.0\16_HerancaXComposicao.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\bin\Debug\net8.0\16_HerancaXComposicao.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\bin\Debug\net8.0\16_HerancaXComposicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\bin\Debug\net8.0\16_HerancaXComposicao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\refint\16_HerancaXComposicao.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\16_HerancaXComposicao.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\16_HerancaXComposicao\obj\Debug\net8.0\ref\16_HerancaXComposicao.dll

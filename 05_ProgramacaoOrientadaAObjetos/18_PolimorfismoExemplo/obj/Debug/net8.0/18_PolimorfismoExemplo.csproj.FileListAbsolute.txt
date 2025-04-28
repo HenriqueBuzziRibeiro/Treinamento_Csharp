@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\bin\Debug\net8.0\18_PolimorfismoExemplo.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\bin\Debug\net8.0\18_PolimorfismoExemplo.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\bin\Debug\net8.0\18_PolimorfismoExemplo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\bin\Debug\net8.0\18_PolimorfismoExemplo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\bin\Debug\net8.0\18_PolimorfismoExemplo.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\refint\18_PolimorfismoExemplo.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\18_PolimorfismoExemplo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\18_PolimorfismoExemplo\obj\Debug\net8.0\ref\18_PolimorfismoExemplo.dll

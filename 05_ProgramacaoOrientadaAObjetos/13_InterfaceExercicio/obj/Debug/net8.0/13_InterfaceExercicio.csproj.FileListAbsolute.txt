@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\bin\Debug\net8.0\13_InterfaceExercicio.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\bin\Debug\net8.0\13_InterfaceExercicio.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\bin\Debug\net8.0\13_InterfaceExercicio.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\bin\Debug\net8.0\13_InterfaceExercicio.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\bin\Debug\net8.0\13_InterfaceExercicio.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\refint\13_InterfaceExercicio.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\13_InterfaceExercicio.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#\05_ProgramacaoOrientadaAObjetos\13_InterfaceExercicio\obj\Debug\net8.0\ref\13_InterfaceExercicio.dll
